@@ -1,5 +1,5 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  base: '/webGL_test/',
+  base: '/WebGL-test/',
 });
